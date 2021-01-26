@@ -7,7 +7,7 @@ html, body {
 
 html {
   font-size: 10px;
-  background-color: #a9a9a9;
+  background-color: #131313;
 }
 
 body {
@@ -57,7 +57,7 @@ header {
 }
 
 body > * {
-  background-color: red;
+  background-color: rgb(119, 0, 255);
   padding: 1%;
 }
 
@@ -106,9 +106,6 @@ nav a, nav span {
   color: black;
 
 }
-
-/* || main layout */
-
 main {
   display: flex;
 }
